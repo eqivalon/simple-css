@@ -88,18 +88,3 @@ Follow the Step by Step instructions below:
 
 
 
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
-
-### Tips
-
-* Make sure that HTML tags are closed properly.
-* Use a different heading type for your name.
-* Remember the box model.
-* Review the lessons *Creating a HTML document*, *Adding Images*, *Selecting and Styling*, and *Different types of selectors*.
